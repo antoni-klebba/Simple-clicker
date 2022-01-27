@@ -1,0 +1,15 @@
+export const INC_COUNTER = "INC_COUNTER";
+export const INC_CASH = "INC_CASH";
+export const DEC_CASH = "DEC_CASH";
+export const INC_CLICKER1 = "INC_CLICKER1";
+export const INC_CLICKER2 = "INC_CLICKER2";
+export const INC_CLICKER3 = "INC_CLICKER3";
+export const INC_CLICKER4 = "INC_CLICKER4";
+export const INC_CLICKER5 = "INC_CLICKER5";
+export const CHANGE_MULTIPLIER = "CHANGE_MULTIPLIER";
+export const INC_MULTIPLIER_STATE = "ICN_MULTIPLIER_STATE";
+export const CHANGE_TEXT = "CHANGE_TEXT";
+export const INC_STAGE = "INC_STAGE";
+export const INC_PREV_STAGE = "INC_PREV_STAGE";
+export const ACTIVATE_END = "ACTIVATE_END";
+export const DEC_END_TIMER = "DEC_END_TIMER";
